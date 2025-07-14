@@ -1,4 +1,4 @@
-<h1>Hi, I'm Abdullah! <br/><a href="https://github.com/Ab-Shakoor">Entry-level IT Professional</a>
+<h1>Hi, I'm Abdullah! <br/><a href="https://github.com/Ab-Shakoor">Entry-Level IT Professional</a>
 <h2>👨‍💻 IT Projects:</h2>
 
 - <b>[Configuring an Active Directory Home Lab](https://github.com/Ab-Shakoor/Active-Directory-Lab)</b>
