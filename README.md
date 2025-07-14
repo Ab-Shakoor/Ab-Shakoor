@@ -1,7 +1,7 @@
 <h1>Hi, I'm Abdullah! <br/><a href="https://github.com/Ab-Shakoor">Aspiring IT Professional</a>
 <h2>👨‍💻 IT Projects:</h2>
 
-- <b>[Active Directory Home Lab](https://github.com/Ab-Shakoor/Active-Directory-Lab)</b>
+- <b>[Configuring an Active Directory Home Lab](https://github.com/Ab-Shakoor/Active-Directory-Lab)</b>
 - <b>[Help Desk Tasks](https://github.com/Ab-Shakoor/ad-helpdesk-tasks)</b>
 
 <h2>Certificates & Certifications</h2>
