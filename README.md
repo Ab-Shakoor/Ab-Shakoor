@@ -2,7 +2,7 @@
 <h2>👨‍💻 IT Projects:</h2>
 
 - <b>[Configuring an Active Directory Home Lab](https://github.com/Ab-Shakoor/Active-Directory-Lab)</b>
-- <b>[Common Help Desk Tasks](https://github.com/Ab-Shakoor/ad-helpdesk-tasks)</b>
+- <b>[Performing Common Help Desk Tasks](https://github.com/Ab-Shakoor/ad-helpdesk-tasks)</b>
 - <b>[Manage File Permissions in Linux](https://github.com/Ab-Shakoor/Manage-File-Permissions-Linux)</b>
 
 <h2>Certificates & Certifications</h2>
