@@ -5,10 +5,9 @@
 - <b>[Performing Common Help Desk Tasks](https://github.com/Ab-Shakoor/ad-helpdesk-tasks)</b>
 - <b>[Managing File Permissions in Linux](https://github.com/Ab-Shakoor/Manage-File-Permissions-Linux)</b>
 
-<h2>Certificates & Certifications</h2>
+<h2>Certifications</h2>
 
 - CompTIA Security+
-- Google Cybersecurity Professional Certificate
 
 <h2> 🤳 Connect with me:</h2>
 
