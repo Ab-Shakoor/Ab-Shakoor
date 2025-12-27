@@ -7,8 +7,8 @@
 
 <h2>Certificates & Certifications</h2>
 
+- CompTIA Security+
 - Google Cybersecurity Professional Certificate
-- CompTIA Security+ (In Progress)
 
 <h2> 🤳 Connect with me:</h2>
 
